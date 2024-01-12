@@ -1,0 +1,13 @@
+.card-container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.name-card {
+  padding: 1rem;
+  border: 1px solid;
+  font-size: 1.2rem;
+  height: 150px;
+  width: 150px;
+}

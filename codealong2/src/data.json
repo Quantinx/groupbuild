@@ -1,0 +1,79 @@
+[
+  {
+    "id": 98765,
+    "name": "Alice",
+    "age": 25,
+    "color": "Blue",
+    "interest": "Reading"
+  },
+  {
+    "id": 54321,
+    "name": "Bob",
+    "age": 30,
+    "color": "Red",
+    "interest": "Traveling"
+  },
+  {
+    "id": 12345,
+    "name": "Charlie",
+    "age": 22,
+    "color": "Green",
+    "interest": "Photography"
+  },
+  {
+    "id": 67890,
+    "name": "David",
+    "age": 28,
+    "color": "Yellow",
+    "interest": "Cooking"
+  },
+  {
+    "id": 45678,
+    "name": "Eva",
+    "age": 35,
+    "color": "Purple",
+    "interest": "Painting"
+  },
+  {
+    "id": 23456,
+    "name": "Frank",
+    "age": 27,
+    "color": "Orange",
+    "interest": "Gardening"
+  },
+  {
+    "id": 78901,
+    "name": "Grace",
+    "age": 32,
+    "color": "Pink",
+    "interest": "Music"
+  },
+  {
+    "id": 34567,
+    "name": "Henry",
+    "age": 26,
+    "color": "Brown",
+    "interest": "Sports"
+  },
+  {
+    "id": 56789,
+    "name": "Ivy",
+    "age": 29,
+    "color": "Cyan",
+    "interest": "Coding"
+  },
+  {
+    "id": 87654,
+    "name": "Jack",
+    "age": 31,
+    "color": "Magenta",
+    "interest": "Dancing"
+  },
+  {
+    "id": 87624,
+    "name": "Eskil",
+    "age": 31,
+    "color": "Salmon",
+    "interest": "Coding"
+  }
+]
